@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_rl_action">
+    <sys_ui_policy_rl_action action="DELETE">
+        <list>task_ci.task</list>
+        <sys_class_name>sys_ui_policy_rl_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-13 09:54:13</sys_created_on>
+        <sys_id>5085cc13db401010145929464896191a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>task_ci.task</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_policy_rl_action_5085cc13db401010145929464896191a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-13 09:54:13</sys_updated_on>
+        <ui_policy display_value="Test">e06308dfdb001010145929464896199e</ui_policy>
+        <visible>false</visible>
+    </sys_ui_policy_rl_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>1386160edb02f70807072f17d4961913</instance_id>
+        <instance_name>dev87735</instance_name>
+        <name>sys_ui_policy_rl_action_5085cc13db401010145929464896191a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_rl_action"><sys_ui_policy_rl_action action="INSERT_OR_UPDATE"><list>task_ci.task</list><sys_class_name>sys_ui_policy_rl_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-13 09:54:13</sys_created_on><sys_id>5085cc13db401010145929464896191a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>task_ci.task</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_policy_rl_action_5085cc13db401010145929464896191a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-13 09:54:13</sys_updated_on><ui_policy display_value="Test">e06308dfdb001010145929464896199e</ui_policy><visible>false</visible></sys_ui_policy_rl_action></record_update>]]></payload>
+        <payload_hash>1241847881</payload_hash>
+        <record_name>task_ci.task</record_name>
+        <reverted_from/>
+        <source>a1ef6f03db00101014592946489619df</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-13 09:54:13</sys_created_on>
+        <sys_id>7495c813db4010101459294648961987</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17172f5f4cc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-13 09:54:13</sys_updated_on>
+        <type>UI Policy Related List Action</type>
+        <update_guid>bc95c8138a40101004deed1460305086</update_guid>
+        <update_guid_history>bc95c8138a40101004deed1460305086:1241847881</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-13 10:01:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_rl_action">sys_ui_policy_rl_action</sys_db_object>
+        <sys_id>7c7deca25f3b4d80838669904ca68640</sys_id>
+        <sys_metadata>5085cc13db401010145929464896191a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>task_ci.task</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_rl_action_5085cc13db401010145929464896191a</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_rl_action_5085cc13db401010145929464896191a">7495c813db4010101459294648961987</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-13 10:01:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
